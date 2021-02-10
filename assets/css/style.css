@@ -1,8 +1,8 @@
 /*--------------------- Copyright (c) 2020 --------------------------
 [Master Stylesheet] 
-Project: Medical Equipment - PPE Kit Responsive HTML Template
+Project:Pacderm Vision
 Version: 1.0.0 
-Author: Kamleshyadav
+Author: Magnion Technology Factory
  ------------------------------------------------------------------- 
 [Table of contents] 
 1. body 
@@ -1695,7 +1695,7 @@ p#me_timer span {
     font-size: 18px;
 }
 .cv-help{
-    background: linear-gradient(45deg, rgba(60, 188, 255, 0.9),rgba(60, 188, 255, 0.9)),url(https://via.placeholder.com/1920x692);    
+    background: linear-gradient(45deg, rgba(60, 188, 255, 0.9),rgba(60, 188, 255, 0.9)),url();    
 }
 .cv-help-icon svg {
     width: 70px;
