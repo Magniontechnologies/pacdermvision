@@ -1288,7 +1288,7 @@ p#me_timer span {
 /* breadcrumb start */
 .cv-breadcrumb {
     padding: 71px 0 73px;
-    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://via.placeholder.com/1920x230);
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url();
 }
 .cv-breadcrumb-box h1 {
     font-size: 36px;
