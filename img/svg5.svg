@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="50"
+   height="50"
+   x="0"
+   y="0"
+   viewBox="0 0 49.999902 49.999905"
+   xml:space="preserve"
+   class=""
+   id="svg70"
+   sodipodi:docname="svg5.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
+     id="metadata76"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs74" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview72"
+     showgrid="false"
+     units="px"
+     width="50mm"
+     inkscape:zoom="1.0507812"
+     inkscape:cx="256"
+     inkscape:cy="65.665428"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" /><g
+     id="g68"
+     transform="matrix(0.06877321,0,0,0.06877321,7.6133713,9.5220567)">
+<g
+   id="g6">
+	<g
+   id="g4">
+		<path
+   d="m 438.09,273.32 h -39.596 c 4.036,11.05 6.241,22.975 6.241,35.404 v 149.65 c 0,5.182 -0.902,10.156 -2.543,14.782 h 65.461 c 24.453,0 44.346,-19.894 44.346,-44.346 V 347.229 C 512,306.476 478.844,273.32 438.09,273.32 Z"
+   fill="#dc3545"
+   data-original="#000000"
+   class=""
+   id="path2" />
+	</g>
+</g>
+<g
+   id="g12">
+	<g
+   id="g10">
+		<path
+   d="m 107.265,308.725 c 0,-12.43 2.205,-24.354 6.241,-35.404 H 73.91 C 33.156,273.321 0,306.477 0,347.231 v 81.581 c 0,24.452 19.893,44.346 44.346,44.346 h 65.462 c -1.641,-4.628 -2.543,-9.601 -2.543,-14.783 z"
+   fill="#dc3545"
+   data-original="#000000"
+   class=""
+   id="path8" />
+	</g>
+</g>
+<g
+   id="g18">
+	<g
+   id="g16">
+		<path
+   d="m 301.261,234.815 h -90.522 c -40.754,0 -73.91,33.156 -73.91,73.91 v 149.65 c 0,8.163 6.618,14.782 14.782,14.782 h 208.778 c 8.164,0 14.782,-6.618 14.782,-14.782 v -149.65 c 0,-40.754 -33.156,-73.91 -73.91,-73.91 z"
+   fill="#dc3545"
+   data-original="#000000"
+   class=""
+   id="path14" />
+	</g>
+</g>
+<g
+   id="g24">
+	<g
+   id="g22">
+		<path
+   d="m 256,38.84 c -49.012,0 -88.886,39.874 -88.886,88.887 0,33.245 18.349,62.28 45.447,77.524 12.853,7.23 27.671,11.362 43.439,11.362 15.768,0 30.586,-4.132 43.439,-11.362 27.099,-15.244 45.447,-44.28 45.447,-77.524 C 344.886,78.715 305.012,38.84 256,38.84 Z"
+   fill="#dc3545"
+   data-original="#000000"
+   class=""
+   id="path20" />
+	</g>
+</g>
+<g
+   id="g30">
+	<g
+   id="g28">
+		<path
+   d="m 99.918,121.689 c -36.655,0 -66.475,29.82 -66.475,66.475 0,36.655 29.82,66.475 66.475,66.475 9.298,0 18.152,-1.926 26.195,-5.388 13.906,-5.987 25.372,-16.585 32.467,-29.86 4.98,-9.317 7.813,-19.946 7.813,-31.227 0,-36.654 -29.82,-66.475 -66.475,-66.475 z"
+   fill="#dc3545"
+   data-original="#000000"
+   class=""
+   id="path26" />
+	</g>
+</g>
+<g
+   id="g36">
+	<g
+   id="g34">
+		<path
+   d="m 412.082,121.689 c -36.655,0 -66.475,29.82 -66.475,66.475 0,11.282 2.833,21.911 7.813,31.227 7.095,13.276 18.561,23.874 32.467,29.86 8.043,3.462 16.897,5.388 26.195,5.388 36.655,0 66.475,-29.82 66.475,-66.475 0,-36.655 -29.82,-66.475 -66.475,-66.475 z"
+   fill="#dc3545"
+   data-original="#000000"
+   class=""
+   id="path32" />
+	</g>
+</g>
+<g
+   id="g38">
+</g>
+<g
+   id="g40">
+</g>
+<g
+   id="g42">
+</g>
+<g
+   id="g44">
+</g>
+<g
+   id="g46">
+</g>
+<g
+   id="g48">
+</g>
+<g
+   id="g50">
+</g>
+<g
+   id="g52">
+</g>
+<g
+   id="g54">
+</g>
+<g
+   id="g56">
+</g>
+<g
+   id="g58">
+</g>
+<g
+   id="g60">
+</g>
+<g
+   id="g62">
+</g>
+<g
+   id="g64">
+</g>
+<g
+   id="g66">
+</g>
+</g></svg>
